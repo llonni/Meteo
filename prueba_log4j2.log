@@ -1,0 +1,5 @@
+2017-12-09 15:51:30,315 DEBUG v.PantallaPrincipal [main] debug message
+2017-12-09 15:51:30,409 WARN v.PantallaPrincipal [main] warn message
+2017-12-09 15:51:30,410 INFO v.PantallaPrincipal [main] info message
+2017-12-09 15:51:30,417 ERROR v.PantallaPrincipal [main] error message
+2017-12-09 15:51:30,420 FATAL v.PantallaPrincipal [main] fatal message
