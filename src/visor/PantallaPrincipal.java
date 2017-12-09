@@ -298,7 +298,7 @@ public class PantallaPrincipal extends JFrame implements ActionListener{
 		PantallaPrincipal pantalla = new PantallaPrincipal();
 		pantalla.setVisible(true);
 		
-        log.trace("trace message");
+        log.trace("Prueba trace message");
         log.debug("debug message");
         log.warn("warn message");
         log.info("info message");

@@ -8,3 +8,8 @@
 2017-12-09 17:41:42,062 INFO v.PantallaPrincipal [main] info message
 2017-12-09 17:41:42,063 ERROR v.PantallaPrincipal [main] error message
 2017-12-09 17:41:42,064 FATAL v.PantallaPrincipal [main] fatal message
+2017-12-09 18:12:19,598 DEBUG v.PantallaPrincipal [main] debug message
+2017-12-09 18:12:19,613 WARN v.PantallaPrincipal [main] warn message
+2017-12-09 18:12:19,613 INFO v.PantallaPrincipal [main] info message
+2017-12-09 18:12:19,614 ERROR v.PantallaPrincipal [main] error message
+2017-12-09 18:12:19,615 FATAL v.PantallaPrincipal [main] fatal message
