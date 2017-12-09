@@ -169,9 +169,9 @@ public class ConexionProveedor {
 			  
 			  
 			} catch (MalformedURLException e) {
-			       e.printStackTrace();
+				log.fatal(e.toString());
 			} catch (IOException e) {
-			       e.printStackTrace();
+				log.fatal(e.toString());
 			}
 		
 		return datosMeteo; 

@@ -208,7 +208,7 @@ public class PantallaPrincipal extends JFrame implements ActionListener{
 			datosMeteo = conProv.getMeteoPrevision();
 		} catch (ParserConfigurationException | ParseException | SAXException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			log.fatal(e.toString());
 			System.exit(-1);
 		}
 		
