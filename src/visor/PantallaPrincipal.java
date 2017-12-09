@@ -275,6 +275,7 @@ public class PantallaPrincipal extends JFrame implements ActionListener{
 	        String hDesde = sdf.format(datosMeteo.dia[temp].fechaDesde);
 	        String hHasta = sdf.format(datosMeteo.dia[temp].fechaHasta);
 	        
+	        
 	        System.out.println(
 	        		datosMeteo.localidad + " " +
 	        //		"(" + datosMeteo.pais + ")" +
